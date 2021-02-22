@@ -1,0 +1,9 @@
+en:
+  books:
+    index:
+      title: 'Books'
+      show: 'Show'
+      edit: 'Edit'
+      destroy: 'Destroy'
+      new_book: 'New Book'
+      destroy_confirmation: 'Are you sure?'
