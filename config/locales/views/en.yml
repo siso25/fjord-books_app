@@ -1,22 +1,18 @@
 en:
+  show: Show
+  edit: Edit
+  back: Back
+
   books:
     index:
       title: Books
-      show: Show
-      edit: Edit
       destroy: Destroy
       new_book: New Book
       destroy_confirmation: Are you sure?
-    show:
-      edit: Edit
-      back: Back
     new:
       title: New Book
-      back: Back
     edit:
       title: Editing Book
-      show: Show
-      back: Back
     form:
       has_error:
         one: '%{count} error prohibited this book from being saved'
