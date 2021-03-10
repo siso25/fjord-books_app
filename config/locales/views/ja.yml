@@ -1,0 +1,19 @@
+ja:
+  show: 詳細
+  edit: 編集
+  back: 一覧へ戻る
+
+  books:
+    index:
+      title: 書籍一覧
+      destroy: 削除
+      new_book: 本を追加
+      destroy_confirmation: 本を削除します。よろしいですか？
+    new:
+      title: 新規作成
+    edit:
+      title: 書籍の更新
+    form:
+      has_error:
+        one: エラーがあります。
+        other: '%{count}個のエラーがあります。'

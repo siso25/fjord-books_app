@@ -1,0 +1,8 @@
+ja:
+  books:
+    create:
+      success: 書籍情報を登録しました。
+    update:
+      success: 書籍情報を更新しました。
+    destroy:
+      success: 書籍情報を削除しました。
